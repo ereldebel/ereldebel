@@ -12,5 +12,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ereldebel&show_icons=true&count_private=true&theme=dracula" width="355"></a>
+</p>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereldebel&layout=compact&title_color=F56B92&text_color=e7e7e7&icon_color=007bff&bg_color=282A36" width="350"></a>
 </p>
