@@ -56,6 +56,6 @@ I am a 23 y.o. Developer from Jerusalem, Israel.
 ---
 
 <p align='center'>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/ereldebel/github-stats/blob/master/generated/overview.svg"></a>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/ereldebel/github-stats/blob/master/generated/languages.svg"></a>
+  <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/ereldebel/github-stats/master/generated/overview.svg"></a>
+  <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/ereldebel/github-stats/master/generated/languages.svg"></a>
 </p>
