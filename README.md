@@ -13,7 +13,7 @@
 </p>
 
 ### About Me:
-I am a 23 y.o. Developer from Jerusalem, Israel.
+I am a 24 y.o. Developer from Jerusalem, Israel.
 
 - _Computer Science_ student at the _Hebrew University, Jerusalem_ with a minor in _Game Development and Design_ at the _Bezalel Academy of Arts and Design, Jerusalem_.
 - Passionate about innovation, technology and the cutting edge.
