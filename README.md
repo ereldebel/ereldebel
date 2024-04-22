@@ -15,7 +15,7 @@
 ### About Me:
 I am a 25 y.o. Developer from Jerusalem, Israel.
 
-- _Computer Science_ student at the _Hebrew University, Jerusalem_ with a minor in _Game Development and Design_ at the _Bezalel Academy of Arts and Design, Jerusalem_.
+- _Computer Science_ graduate at the _Hebrew University, Jerusalem_ with a minor in _Game Development and Design_ at the _Bezalel Academy of Arts and Design, Jerusalem_.
 - Passionate about innovation, technology and the cutting edge.
 - Driven by a thirst for knowledge. I always aim as high as possible.
 
